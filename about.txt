@@ -1,0 +1,1 @@
+Este proyecto demuestra el uso de Git y GitHub.
